@@ -7,7 +7,9 @@ that project to Measure degree of the depression by interact with user in chat
 
 
 by using RNN(LSTM) model we built chatbot.
+
 by using sentimental analysis we Measure degree of the depression for each message. 
+
 by using Beck-Depression-Inventory-BDI we do rate of depression.
 Beck-Depression-Inventory-BDI link [Beck-Depression-Inventory-BDI.pdf](https://github.com/MAYAR1GAMAL/Chatbot-for-depression/files/9445727/Beck-Depression-Inventory-BDI.pdf)
 
