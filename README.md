@@ -6,3 +6,7 @@ by using sentimental analysis we Measure degree of the depression for each messa
 by using Beck-Depression-Inventory-BDI we do rate of depression https://github.com/MAYAR1GAMAL/Chatbot-for-depression/blob/main/Beck-Depression-Inventory-BDI.pdf
 
 
+
+
+https://user-images.githubusercontent.com/112266367/187233725-1a3b53f0-133d-4442-b74a-a31eed5df9dd.mp4
+
