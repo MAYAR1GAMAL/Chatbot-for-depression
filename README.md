@@ -1,9 +1,6 @@
 # Chatbot-for-depression
 that project to Measure degree of the depression by interact with user in chat 
 
-![screen1](https://user-images.githubusercontent.com/112266367/187234356-bf011831-9854-4f75-9ae6-efd58581719f.jpg)
-
-![screen2](https://user-images.githubusercontent.com/112266367/187234336-adb37885-058d-4d28-8957-54cf1ddcc501.jpg)
 
 
 by using RNN(LSTM) model we built chatbot.
