@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/112266367/187233725-1a3b53f0-133d-4442
 
 
 
-please read https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
+please read CHATBOT TUTORIAL https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
 and read about LSTM&GRU  and also about Greedy search and Beam search algorithms.
 you can read that https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam-search-98c1e3cd821d
 
