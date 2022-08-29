@@ -18,4 +18,6 @@ https://user-images.githubusercontent.com/112266367/187233725-1a3b53f0-133d-4442
 
 
 
+please read https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
+
 for more info you can message me in gamalmayar140@gmail.com
