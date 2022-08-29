@@ -16,3 +16,6 @@ by using Beck-Depression-Inventory-BDI we do rate of depression.
 
 https://user-images.githubusercontent.com/112266367/187233725-1a3b53f0-133d-4442-b74a-a31eed5df9dd.mp4
 
+
+
+for more info you can message me in gamalmayar140@gmail.com
